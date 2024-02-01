@@ -2,3 +2,19 @@
     text-align: center;
     color: crimson;
 }
+.ramis{
+    width: 30%;
+    height: 70%;
+    background-color:rgb(158, 136, 168);
+    position: absolute;
+    margin-left: 3%;
+}
+.ramis1{
+    width: 90%;
+    height: 90%;
+    background-color:rgb(255, 255, 255);
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
