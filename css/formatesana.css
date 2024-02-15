@@ -1,5 +1,5 @@
 body{
-    background-color: crimson;
+    background-color: rgb(202, 202, 176);
 }
 .virsraksts{
     text-align: center;
@@ -8,9 +8,9 @@ body{
 .ramis{
     width: 30%;
     height: 85%;
-    background-color:rgb(158, 136, 168);
+    background-color:rgb(195, 186, 200);
     position: absolute;
-    margin-left: 3%;
+    margin-left: 7%;
 }
 .ramis1{
     width: 90%;
@@ -34,5 +34,12 @@ body{
     position: relative;
     left: 7%;
 }
-
-
+.attēls{
+    background-image: url("../img/klase.jpeg");
+    width: 700px;
+    height: 545px;
+    background-size: cover;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 3%;
+}
