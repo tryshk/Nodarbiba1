@@ -1,6 +1,9 @@
+body{
+    background-color: crimson;
+}
 .virsraksts{
     text-align: center;
-    color: crimson;
+    color: black;
 }
 .ramis{
     width: 30%;
@@ -31,4 +34,5 @@
     position: relative;
     left: 7%;
 }
+
 
