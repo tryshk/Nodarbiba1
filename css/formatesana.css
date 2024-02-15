@@ -4,17 +4,31 @@
 }
 .ramis{
     width: 30%;
-    height: 70%;
+    height: 85%;
     background-color:rgb(158, 136, 168);
     position: absolute;
     margin-left: 3%;
 }
 .ramis1{
     width: 90%;
-    height: 90%;
+    height: 93%;
     background-color:rgb(255, 255, 255);
     position: absolute;
     margin-left: 5%;
     margin-top: 5%;
+}
+.teksts1{
+    font-size: small;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    left: 7%;
+}
+.teksts{
+    font-size: large;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 7%;
 }
 
